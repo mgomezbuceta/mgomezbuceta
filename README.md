@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marcos Gómez Buceta
 ===========================================================================================================================================
 
-Project Manager, Programmer Backend and IT Systems
+Programmer Sennior Backend and IT Systems
 --------------------------------------------------
 
 Project Manager and Senior PHP Developer at Sixtema | Leading CakePHP and PHP projects from conception to completion.
